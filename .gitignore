@@ -1,2 +1,3 @@
 nvenv
 .env
+__pycache__
